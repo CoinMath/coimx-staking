@@ -1,0 +1,1 @@
+# coimx-staking
