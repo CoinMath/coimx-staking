@@ -1,0 +1,16 @@
+{
+  "stakingContractAddress": "0x4e07558CE85DEE02c7EF5c21094925Fbb19D7ffB",
+  "network": "Base Mainnet",
+  "rpcUrl": "https://mainnet.base.org",
+  "explorerUrl": "https://basescan.org/address/0x4e07558CE85DEE02c7EF5c21094925Fbb19D7ffB",
+  "minStakeAmount": "10",
+  "maxStakeAmount": "1000000",
+  "apyRates": {
+    "30_days": "10%",
+    "90_days": "15%",
+    "180_days": "25%"
+  },
+  "penaltyFee": "3%",
+  "loyaltyBonus": "Yes",
+  "halvingEvent": "Every 12 months"
+}// Placeholder for config.json
